@@ -1,0 +1,7 @@
+﻿Proyecto: cine-web
+
+Actualizacion:
+- Cada pelicula tiene una pagina interna con sus 3 imagenes.
+- Cada carpeta imgs/pelicula1 a imgs/pelicula10 contiene img1.svg, img2.svg e img3.svg.
+- Las imagenes fueron generadas para que no sean todas iguales.
+- Todas las rutas son relativas.

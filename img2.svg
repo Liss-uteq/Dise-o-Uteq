@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-labelledby="titulo desc">
+  <title id="titulo">Toy Story 4 imagen 2</title>
+  <desc id="desc">Imagen ilustrativa generada para la pelicula Toy Story 4.</desc>
+  <rect width="640" height="900" fill="#0077b6"/>
+  <rect x="44" y="44" width="552" height="812" rx="30" fill="none" stroke="#ffd166" stroke-width="8"/>
+  <path d="M160 500h320l-50-210H210z" fill="#ffd166"/><circle cx="250" cy="280" r="65" fill="#ffffff"/><circle cx="390" cy="280" r="65" fill="#ffffff"/>
+  <text x="320" y="720" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#ffffff">PELICULA 9</text>
+  <text x="320" y="775" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#ffd166">IMAGEN 2</text>
+</svg>
